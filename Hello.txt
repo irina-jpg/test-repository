@@ -1,2 +1,2 @@
 hello Git!
-git, How are you?
+git, how are you?
